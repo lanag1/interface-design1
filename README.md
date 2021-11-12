@@ -4,16 +4,18 @@
 ## Design Variation
 > When I began to deisgn my app, I tried various shapes, fonts, and colorways to see which worked best on my homepage. I made sure to do this step first so the shapes, fonts, and colorways could be consistent throughout the app.
 ### Typography
-
-#### I tried 3 different fonts from the Roboto font family on the main part of the homepage, the appointment button. I used 
+![picture of different fonts in use on the prototype of the app](fonts.png)
+#### I tried 3 different fonts from the Roboto font family on the main part of the homepage, the appointment button. I used Roboto compressed on the left, Roboto thin in the middle, and Roboto medium for the far left. I decided on Roboto medium for the buttons on this app as they are the clearest to read.
 ### Button Shapes
-
+![picture of different button shapes](shapes.png)
 #### I tried 3 different shapes for the appointment button. I tried a rectangle with 45 degree curves for the corners, a regular rectangle, and a rectangle with 65 curves for the corners. I found that the rectangle with the 45 degrees was most useful as the regular rectangle looked to harsh as a welcome, and the rectangle with 65 degree corners was too squished and the text was not as clear as the rectangle I decided on.
 ### Colorways
-
+![screenshot of light and dark mode](lightvsdark.png)
 #### Above are my dark mode and light mode for the app. I decided that the light mode would be most effective.
-
+![screenshots of different colorways in app](color1.png)![](color2.png)![](color3.png)
 #### I also contrasted checked all my colors on the app with their background to make sure that they passed the color contrast test. I also included the color contrast test for the baby blue I used for my buttons against black as black outlined all these buttons to make them visible and testing against the background would not give accurate results.
 ### Spacing
-
-#### Above is an example of the layout grid for the app I created. This shows that the spacing of the app is suitable for most users.
+![screenshot of layout and spacing on app](layout.png)
+#### Above is an example of the layout grid for the app I created. This shows that the spacing of the app is suitable for most users. Based on the first tray, we can see that the bottom icons will need to be centered more accurately for the final layout.
+### Impression Testing
+> I had my roommate view the app and its layout. My roommate's first impression was that it was, "very clean and simplistic". Her only negative criticism is that blue is a verey basic color that is used on most apps regardless of their purpose. This is definitely something I will keep in mind and I am now considering reworking the colorway of the app. I found that her feedback was very useful as she was able to identify what the task was and how to nvaigate through making an appointment. My biggest takeaway from this testing is the stylistic feedback about the various colors used throughout my app design. 
